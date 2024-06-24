@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2010\Projects\GPAgent\GPAgent\obj\x86\Debug\GPAgent.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\GPAgent\GPAgent\obj\x86\Debug\GPAgent.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\GPAgent\GPAgent\obj\x86\Debug\GPAgent.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\GPAgent\GPAgent\bin\Debug\GPAgent.exe
+c:\users\user\documents\visual studio 2010\Projects\GPAgent\GPAgent\bin\Debug\GPAgent.pdb
+c:\users\user\documents\visual studio 2010\Projects\GPAgent\GPAgent\obj\x86\Debug\GPAgent.exe
+c:\users\user\documents\visual studio 2010\Projects\GPAgent\GPAgent\obj\x86\Debug\GPAgent.pdb
+C:\Users\User\documents\visual studio 2010\Projects\GPAgent\GPAgent\obj\x86\Debug\GPAgent.csprojResolveAssemblyReference.cache
